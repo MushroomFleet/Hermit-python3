@@ -12,7 +12,7 @@ https://github.com/LingDong-/Hermit (original python 2 repo)
 ## HOW TO RUN
 Download the project. In terminal, type:
 ```bash
-$ python /path/to/folder/src/main.py
+$ python main.py
 ```
 
 ## VIDEO
